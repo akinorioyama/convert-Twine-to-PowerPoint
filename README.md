@@ -1,4 +1,5 @@
 `convertTwineProofToPowerPoint` is a tentative project to convert Twine HTML format file to PowerPoint file.
+[[ ]] directive's cross-links in Twine passage are reflected as textboxes with a clickable link to a target passage.  
 
 **Usage**
 ---
